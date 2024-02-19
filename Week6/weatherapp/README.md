@@ -1,3 +1,3 @@
 # Weather
 
-![Weather]('IMG_7542.jpg')
+![Weather](IMG_7542.jpg)
